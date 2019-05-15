@@ -1,0 +1,17 @@
+{
+  "name": "svobodaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "express": "^4.16.4",
+    "pg": "^7.9.0",
+    "pg-format": "^1.0.4"
+  }
+}
